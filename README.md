@@ -1,3 +1,3 @@
 # HAM Dashboard
 
-This is a dashboard for ham radio stuff the original repository and more details can be found here: https://github.com/VA3HDL/hamdashboard
+This is a dashboard for ham radio. The original repository and more details about how to configure it can be found here: https://github.com/VA3HDL/hamdashboard
