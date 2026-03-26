@@ -70,8 +70,8 @@ var aIMG = [
   ],
   // 3
   [
-    "Satalite Local",
-    "https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/GEOCOLOR/GOES18-PNW-GEOCOLOR-600x600.gif",
+    "Precip National",
+    "https://www.spc.noaa.gov/exper/mesoanalysis/activity_loop.gif",
   ],
   // 4
   [
