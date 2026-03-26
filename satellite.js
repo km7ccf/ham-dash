@@ -58,7 +58,11 @@ var aURL = [
 var currentDate = new Date();
 var aIMG = [
   // 1
-  ["Radar NA", "https://radar.weather.gov/ridge/standard/CONUS-LARGE_loop.gif", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
+  [
+    "Radar National", 
+   "https://radar.weather.gov/ridge/standard/CONUS-LARGE_loop.gif",
+   "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"
+  ],
   // 2
   [
     "Radar Local",
@@ -66,13 +70,13 @@ var aIMG = [
   ],
   // 3
   [
-    "Satellite NA",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/can/GEOCOLOR/GOES16-CAN-GEOCOLOR-1125x560.gif",
+    "Satalite Local",
+    "https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/GEOCOLOR/GOES18-PNW-GEOCOLOR-600x600.gif",
   ],
   // 4
   [
-    "Satellite Local",
-    "https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/GEOCOLOR/20253311506-20253311901-GOES18-ABI-PNW-GEOCOLOR-600x600.gif",
+    "Fires",
+    "https://weather.gc.ca/?layers=alert,radar&center=43.39961001,-78.53212031&zoom=6&alertTableFilterProv=ON",
   ],
 ];
 
