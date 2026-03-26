@@ -65,8 +65,8 @@ var aIMG = [
   ],
   // 2
   [
-    "Radar Local",
-    "https://s.w-x.co/staticmaps/wu/wxtype/county_loc/bgm/animate.png",
+    "Satalite North",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/can/GEOCOLOR/GOES16-CAN-GEOCOLOR-1125x560.gif",
   ],
   // 3
   [
@@ -75,8 +75,8 @@ var aIMG = [
   ],
   // 4
   [
-    "Fires",
-    "https://weather.gc.ca/?layers=alert,radar&center=43.39961001,-78.53212031&zoom=6&alertTableFilterProv=ON",
+    "Hazards",
+    "https://www.spc.noaa.gov/products/watch/validww.png",
   ],
 ];
 
